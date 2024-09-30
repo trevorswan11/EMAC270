@@ -10,10 +10,10 @@ ACS Reference Style
 	doi = {}
 }
 
-@incollection{Dodiok2014
+@incollection{Citation Label
 	author = },
 	title = },
-	ooktitle = {},
+	booktitle = {},
 	editor = {},
 	publisher = {},
 	year = {},
