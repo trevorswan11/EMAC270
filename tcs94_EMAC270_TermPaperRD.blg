@@ -1,48 +1,57 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: tcs94_EMAC270_TermPaperRD.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: achemso.bst
+Illegal, another \bibstyle command---line 20 of file tcs94_EMAC270_TermPaperRD.aux
+ : \bibstyle
+ :          {achemso}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 30 items.
 Reallocating 'name_of_file' (item size: 1) to 5 items.
-Database file #1: refs.bib
-You've used 5 entries,
-            2118 wiz_defined-function locations,
-            541 strings with 5322 characters,
-and the built_in function-call counts, 2196 in all, are:
-= -- 202
-> -- 142
-< -- 1
-+ -- 55
-- -- 50
-* -- 185
-:= -- 380
-add.period$ -- 16
-call.type$ -- 5
-change.case$ -- 40
-chr.to.int$ -- 0
-cite$ -- 5
-duplicate$ -- 67
-empty$ -- 144
-format.name$ -- 50
-if$ -- 447
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: acs-tcs94_EMAC270_TermPaperRD.bib
+Database file #2: refs.bib
+achemso 2024-01-30 v3.13g
+You've used 6 entries,
+            2538 wiz_defined-function locations,
+            794 strings with 7867 characters,
+and the built_in function-call counts, 2256 in all, are:
+= -- 161
+> -- 147
+< -- 6
++ -- 59
+- -- 53
+* -- 226
+:= -- 309
+add.period$ -- 5
+call.type$ -- 6
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 6
+duplicate$ -- 133
+empty$ -- 141
+format.name$ -- 55
+if$ -- 434
 int.to.chr$ -- 0
-int.to.str$ -- 5
-missing$ -- 5
-newline$ -- 28
-num.names$ -- 12
-pop$ -- 32
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 58
+num.names$ -- 17
+pop$ -- 11
 preamble$ -- 1
-purify$ -- 34
+purify$ -- 0
 quote$ -- 0
-skip$ -- 48
+skip$ -- 7
 stack$ -- 0
-substring$ -- 125
-swap$ -- 14
-text.length$ -- 1
+substring$ -- 109
+swap$ -- 144
+text.length$ -- 11
 text.prefix$ -- 0
-top$ -- 0
-type$ -- 20
+top$ -- 1
+type$ -- 39
 warning$ -- 0
-while$ -- 16
-width$ -- 6
-write$ -- 60
+while$ -- 22
+width$ -- 0
+write$ -- 88
+(There was 1 error message)

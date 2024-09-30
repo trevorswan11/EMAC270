@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  10 SEP 2024 16:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  29 SEP 2024 22:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -125,6 +125,9 @@ Package: derivative 2024/02/08 v1.4 Nice and easy derivatives and differentials
 \l__deriv_tmpb_int=\count279
 \l__deriv_seq_pos_int=\count280
 \l__deriv_sort_max_int=\count281
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
 )
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
 Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
@@ -271,54 +274,104 @@ Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
 \l__lipsum_b_int=\count293
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/achemso\achemso.sty
+Package: achemso 2024-01-30 v3.13g Support for ACS journals
+Package achemso Info: When writing a submission to an ACS journal, please
+(achemso)             use the achemso document class on input line 36.
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
 )
+\XKV@depth=\count294
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\acs@bib@file=\write3
+ (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip59
+\bibsep=\skip60
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count295
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/achemso\natmove.sty
+Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/mciteplus\mciteplus.st
+y
+Package: mciteplus 2013/09/13 v1.2 enhanced mcite
+\@mcitetmptoksA=\toks31
+\@mcitetmpdima=\dimen164
+\@mcitetmpdimb=\dimen165
+\@mcitetmpcnta=\count296
+\@mcitetmpcntb=\count297
+\c@mcitebibitemcount=\count298
+\c@mcitesubitemcount=\count299
+
+** mciteplus: Detected natbib.sty. Invoking hooks.
+))
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip59
-\f@nch@O@elh=\skip60
-\f@nch@O@erh=\skip61
-\f@nch@O@olh=\skip62
-\f@nch@O@orh=\skip63
-\f@nch@O@elf=\skip64
-\f@nch@O@erf=\skip65
-\f@nch@O@olf=\skip66
-\f@nch@O@orf=\skip67
+\f@nch@headwidth=\skip61
+\f@nch@O@elh=\skip62
+\f@nch@O@erh=\skip63
+\f@nch@O@olh=\skip64
+\f@nch@O@orh=\skip65
+\f@nch@O@elf=\skip66
+\f@nch@O@erf=\skip67
+\f@nch@O@olf=\skip68
+\f@nch@O@orf=\skip69
 ) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.st
 y
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (tcs94_EMAC270_TermPaperRD.aux)
 \openout1 = `tcs94_EMAC270_TermPaperRD.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 32.
-LaTeX Font Info:    ... okay on input line 32.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 35.
+LaTeX Font Info:    ... okay on input line 35.
+LaTeX Info: Redefining \celsius on input line 35.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 35.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 35.
+Package gensymb Info: Using \Omega for \ohm on input line 35.
+
+Package gensymb Warning: Not defining \micro.
+
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count294
-\scratchdimen=\dimen164
+\scratchcounter=\count300
+\scratchdimen=\dimen166
 \scratchbox=\box57
-\nofMPsegments=\count295
-\nofMParguments=\count296
-\everyMPshowfont=\toks29
-\MPscratchCnt=\count297
-\MPscratchDim=\dimen165
-\MPnumerator=\count298
-\makeMPintoPDFobject=\count299
-\everyMPtoPDFconversion=\toks30
+\nofMPsegments=\count301
+\nofMParguments=\count302
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count303
+\MPscratchDim=\dimen167
+\MPnumerator=\count304
+\makeMPintoPDFobject=\count305
+\everyMPtoPDFconversion=\toks33
 )
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -354,12 +407,15 @@ kii
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    Trying to load font information for U+msa on input line 34.
+\openout3 = `acs-tcs94_EMAC270_TermPaperRD.bib'.
+
+\c@bibnote=\count306
+LaTeX Font Info:    Trying to load font information for U+msa on input line 37.
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 34.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 37.
 
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -368,28 +424,38 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 [1
 
 {C:/Users/Trevor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-(tcs94_EMAC270_TermPaperRD.bbl) [2] (tcs94_EMAC270_TermPaperRD.aux)
+
+Package achemso Warning: \bibliographystyle ignored on input line 74.
+
+(tcs94_EMAC270_TermPaperRD.bbl) [2] (tcs94_EMAC270_TermPaperRD.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 6931 strings out of 474424
- 157695 string characters out of 5741267
- 1933496 words of memory out of 5000000
- 29199 multiletter control sequences out of 15000+600000
- 562218 words of font info for 52 fonts, out of 8000000 for 9000
+ 8074 strings out of 474424
+ 176810 string characters out of 5741267
+ 1932496 words of memory out of 5000000
+ 30304 multiletter control sequences out of 15000+600000
+ 566872 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,6n,79p,258b,211s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 64i,6n,79p,318b,246s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
 msfonts/cm/cmr12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmr17.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on tcs94_EMAC270_TermPaperRD.pdf (2 pages, 68005 bytes).
+nts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Trevor/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Trevor/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on tcs94_EMAC270_TermPaperRD.pdf (2 pages, 85676 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
+ 39 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

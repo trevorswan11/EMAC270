@@ -1,0 +1,22 @@
+ACS Reference Style
+@article{Citation Label,
+	author = {},
+	title = {},
+	journal = {},
+	year = {},
+	volume = {},
+	number = {},
+	pages = {},
+	doi = {}
+}
+
+@incollection{Dodiok2014
+	author = },
+	title = },
+	ooktitle = {},
+	editor = {},
+	publisher = {},
+	year = {},
+	pages = {},
+	address = {}
+}
