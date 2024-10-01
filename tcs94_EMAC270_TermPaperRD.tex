@@ -17,7 +17,7 @@
 \usepackage{inputenc}
 \usepackage[left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm]{geometry}
 \usepackage{lipsum}
-\usepackage{achemso}  % Load ACS style using achemso
+\usepackage[doi=true]{achemso}  % Load ACS style using achemso
 \usepackage[numbers,sort&compress]{natbib}  % For numerical citations
 
 % Header and indent packages
@@ -37,17 +37,15 @@ Cleveland, OH 44016-7079}
 \maketitle
 
 \section{Abstract}
-	I will write the abstract as the last part of my paper, as it should survey the topics and results discussed. Citation examples for LaTeX, which I will be using to write and format this paper, compilation. I am using ACS as a reference style. Also, I have appropriately removed the outline from this document.
-\indent I am using BibTex to compile my refs.bib document for this paper, please let me know if my citations are done incorrectly so I can change them sooner rather than later.
+
+\indent I will write the abstract as the last part of my paper, as it should survey the topics and results discussed. Citation examples for LaTeX, which I will be using to write and format this paper, compilation. I am using ACS as a reference style. Also, I have appropriately removed the outline from this document.
+	
+\indent I am using BibTex to compile my refs.bib document for this paper, please let me know if my citations are done incorrectly so I can change them sooner rather than later. \textbf{Please note that I have more references than listed here, but the paragraphs I wrote for this draft do not make use of all of them, so LaTeX doesn't include them}.
+
+\indent As i am not writing an abstract until the rest of the paper is complete, I included more detail in the next 2 sections, though I have a lot of work to do. I also plan on adding images to the paper down the line.
+
 \section{Introduction}
-	\begin{enumerate}
-		\item Desire for hypersonic travel commercially and narrower scopes
-		\item Difficulty finding polymers to withstand extreme temperature scenarios
-		\item High friction scenarios both with physical and gases (air resistance) need to be accounted for
-		\item Space stations can make use of temp withstanding polymers in either direction
-		\item Main concern with hypersonic travel is the lack of ability to handle friction with air
-		\item Explicitly state the purpose of these studies
-	\end{enumerate}
+
 \indent Hypersonic travel has long been a major point of interest in the aerospace industry and scientific community alike. Speeds exceeding Mach 5 offer significant potential with respect to both commercial and defense based applications. However, the extreme temperature conditions associated with hypersonic travel pose substantial material challenges. Materials used must exhibit high thermal resistance while also being manufacturable and moldable into various complex shapes for a wide range of applications. Finding a material that meets these demanding criteria has proven to be remarkably difficult.
 	
 \indent Polymer science has been at the heart of addressing these material concerns due to the versatility and wide range of properties that polymers offer. Unlike metals and other commonly used materials, polymers have the potential to be incredibly lightweight solutions while also having tunable properties for specific applications. Through the study of polymers, optimized materials can be derived such that they can withstand the extreme thermal and mechanical stresses encountered when traveling at hypersonic speeds. 
@@ -55,21 +53,18 @@ Cleveland, OH 44016-7079}
 \indent \textit{Discuss recent research and discuss what topics the review article will talk about(ATSP-\cite{Bashandeh2021}, PPTA\cite{LiTong2022}), implying a vertical vs. horizontal approach}
 	
 \section{Results and Discussion}
-	\begin{enumerate}
-		\item Polymer coatings can mitigate low thermal resistance
-		\item Polyimides very thermo-oxidatively resistant
-		\item Discuss synthesis of polyimides and behavior at temperatures above 500\degree C
-		\item Thermoplastic vs. thermosey polyimides 
-		\item Nanoparticles: their use and benefit to making travel like this possible
-	\end{enumerate}
-	
+
+\indent Recent research has highlighted tribological solutions for extreme temperatures ranging from $-196$\degree C to $300$\degree C. While these temperatures aren't equivalent to the expected $500+$\degree C with hypersonic travel, they do offer coating and lubricant solutions for parts of these aircrafts that may be within this range. Aromatic thermosetting co-polyesters (ATSP) based coatings were tested in high friction environements by sliding them against metal counterparts. Upon this sliding, a transfer layer was created between the coating and the metal. This resulted in a low coefficient of friction (COF) while the ATSP wear also showed minimal wear. This minimal wear was exhibited within the aforementioned temperature range and pressure of 1 MPa, simulating a strenuous environment. \citep{Bashandeh2021} This study also tests PEEK- and Fluoropolymer based coatings, but these materials cannot withstand the same conditions as ATSP-based coatings. Upon further refining of the coatings, thermal and mechanical properties of these coatings may be more suited for extreme temperature applications. 
+
+\indent Deriving a material to more aptly fulfill the desired needs has recently been streamlined with the advancement of machine learning and AI. With property goals set to $T_g>600K$, a variation auto-encoder (VAE) generates a variety of possibilities for the polymer.\citep{Batra2020}. This model created theoretical materials to fit a myriad of criteria \textit{Reference Image of results}, but almost all of the $T_g$-fulfilling materials contained an aromatic ring. Finding a polymer whose $T_g$ is high enough to withstand extreme temperatures is important as the polymer will be able to maintain its mechanical properties under intense heat. 
+
+\indent Keeping $T_g$ in mind, polymer scientists (Discuss PPTA)$\dots$
+
 \section{Conclusions}
-	Restate, succinctly, the results section.
-	\begin{enumerate}
-		\item Discuss without logical sentences
-		\item Discuss possible grievances and comments
-		\item Discuss future solutions and ideas
-	\end{enumerate}	 
+
+\indent Poly($\rho$-phenylene terephthalamide), more commonly referred to as PPTA, fiber has desirable mechanical properties while maintaining low thermal conductivity.\citep{LiTong2022} PPTA fiber on its own is not suitable for high temperature applications and must be enhanced experimentally. Due to the nature of polymers, this is no arduous task. Through the use of Scanning Electron Microscopy (SEM), these properties can be closely monitored as modifications are made. 
+
+\indent By making use of Ethylene glycol diglycidyl ether (EGDE)\citep{LeiWang2017}, altering the polymers morphology \citep{Kanbargi2017}, introducing nanocomposites \citep{BoZhang2021}, and utilizing carbon nanotubes \citep{Yang2019}, PPTA can become viable for hypersonic travel. Enhancing this materials already present thermal and mechanical properties allows it to withstand temperature ranges between 30\degree C and 800\degree C with decreased thermal weight loss \citep{ShushengChen2014}. While there is still room for improvement, composite materials utilizing PPTA fibers prove to be a useful tool for designing materials fit for hypersonic travel.
 
 \bibliographystyle{achemso}
 \bibliography{refs} 

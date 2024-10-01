@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  30 SEP 2024 20:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  30 SEP 2024 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -425,32 +425,44 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 
 {C:/Users/Trevor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 
-Package achemso Warning: \bibliographystyle ignored on input line 74.
+Package achemso Warning: \bibliographystyle ignored on input line 69.
 
-(tcs94_EMAC270_TermPaperRD.bbl) [2] (tcs94_EMAC270_TermPaperRD.aux)
+(tcs94_EMAC270_TermPaperRD.bbl [2]
+Underfull \hbox (badness 2253) in paragraph at lines 47--55
+[]\OT1/cmr/m/n/12 Batra, R.; Dai, H.; Huan, T. D.; Chen, L.; Kim, C.; Gutekunst
+, W. R.;
+ []
+
+) [3] (tcs94_EMAC270_TermPaperRD.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 8060 strings out of 474424
- 176539 string characters out of 5741267
- 1933496 words of memory out of 5000000
- 30289 multiletter control sequences out of 15000+600000
- 567224 words of font info for 71 fonts, out of 8000000 for 9000
+ 8085 strings out of 474424
+ 177057 string characters out of 5741267
+ 1934496 words of memory out of 5000000
+ 30313 multiletter control sequences out of 15000+600000
+ 567393 words of font info for 72 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,6n,79p,661b,213s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 64i,6n,79p,1187b,280s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmbx12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmr12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmr17.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Trevor/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmti12.pfb><C:/Users/Trevor/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on tcs94_EMAC270_TermPaperRD.pdf (2 pages, 85183 bytes).
+msfonts/cm/cmmi12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Trevor/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Trevor/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Trevor/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Tr
+evor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:
+/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti
+12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmti8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmtt12.pfb>
+Output written on tcs94_EMAC270_TermPaperRD.pdf (3 pages, 140626 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 67 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
