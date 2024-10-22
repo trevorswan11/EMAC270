@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  21 OCT 2024 17:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  22 OCT 2024 18:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -289,13 +289,6 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@dimlist=\toks28
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
-) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
-Package: lipsum 2021-09-20 v2.7 150 paragraphs of Lorem Ipsum dummy text
-\g__lipsum_par_int=\count293
-\l__lipsum_a_int=\count294
-\l__lipsum_b_int=\count295
-
-(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex)
 ) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/achemso\achemso.sty
 Package: achemso 2024-01-30 v3.13g Support for ACS journals
 Package achemso Info: When writing a submission to an ACS journal, please
@@ -309,7 +302,7 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 \XKV@toks=\toks29
 \XKV@tempa@toks=\toks30
 )
-\XKV@depth=\count296
+\XKV@depth=\count293
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 \acs@bib@file=\write3
@@ -318,7 +311,7 @@ Package: natbib 2010/09/13 8.31b (PWD, AO)
 \bibhang=\skip59
 \bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
-\c@NAT@ctr=\count297
+\c@NAT@ctr=\count294
 ) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/achemso\natmove.sty
 Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
 )
@@ -328,54 +321,138 @@ Package: mciteplus 2013/09/13 v1.2 enhanced mcite
 \@mcitetmptoksA=\toks31
 \@mcitetmpdima=\dimen172
 \@mcitetmpdimb=\dimen173
-\@mcitetmpcnta=\count298
-\@mcitetmpcntb=\count299
-\c@mcitebibitemcount=\count300
-\c@mcitesubitemcount=\count301
+\@mcitetmpcnta=\count295
+\@mcitetmpcntb=\count296
+\c@mcitebibitemcount=\count297
+\c@mcitesubitemcount=\count298
 
 ** mciteplus: Detected natbib.sty. Invoking hooks.
 ))
-(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count299
+\mult@box=\box57
+\multicol@leftmargin=\dimen174
+\c@unbalance=\count300
+\c@collectmore=\count301
+\doublecol@number=\count302
+\multicoltolerance=\count303
+\multicolpretolerance=\count304
+\full@width=\dimen175
+\page@free=\dimen176
+\premulticols=\dimen177
+\postmulticols=\dimen178
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box58
+\last@line=\box59
+\mc@boxedresult=\box60
+\maxbalancingoverflow=\dimen179
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@firstbox=\box63
+\mult@gfirstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\c@minrows=\count305
+\c@columnbadness=\count306
+\c@finalcolumnbadness=\count307
+\last@try=\dimen180
+\multicolovershoot=\dimen181
+\multicolundershoot=\dimen182
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count308
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box103
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen183
+\ttl@minus=\dimen184
+\ttl@toksa=\toks32
+\titlewidth=\dimen185
+\titlewidthlast=\dimen186
+\titlewidthfirst=\dimen187
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.st
+y
 Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
 
-\f@nch@headwidth=\skip61
-\f@nch@O@elh=\skip62
-\f@nch@O@erh=\skip63
-\f@nch@O@olh=\skip64
-\f@nch@O@orh=\skip65
-\f@nch@O@elf=\skip66
-\f@nch@O@erf=\skip67
-\f@nch@O@olf=\skip68
-\f@nch@O@orf=\skip69
-) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.st
-y
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
 Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
 ) (tcs94_EMAC270_TermPaperFD.aux)
 \openout1 = `tcs94_EMAC270_TermPaperFD.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 36.
-LaTeX Font Info:    ... okay on input line 36.
-LaTeX Info: Redefining \celsius on input line 36.
-Package gensymb Info: Faking symbols for \degree and \celsius on input line 36.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Info: Redefining \celsius on input line 38.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 38.
 
 
 
 Package gensymb Warning: Not defining \perthousand.
 
-LaTeX Info: Redefining \ohm on input line 36.
-Package gensymb Info: Using \Omega for \ohm on input line 36.
+LaTeX Info: Redefining \ohm on input line 38.
+Package gensymb Info: Using \Omega for \ohm on input line 38.
 
 Package gensymb Warning: Not defining \micro.
 
@@ -383,17 +460,17 @@ Package gensymb Warning: Not defining \micro.
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count302
-\scratchdimen=\dimen174
-\scratchbox=\box57
-\nofMPsegments=\count303
-\nofMParguments=\count304
-\everyMPshowfont=\toks32
-\MPscratchCnt=\count305
-\MPscratchDim=\dimen175
-\MPnumerator=\count306
-\makeMPintoPDFobject=\count307
-\everyMPtoPDFconversion=\toks33
+\scratchcounter=\count309
+\scratchdimen=\dimen188
+\scratchbox=\box104
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen189
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks34
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
@@ -419,14 +496,14 @@ Package caption Info: End \AtBeginDocument code.
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=4.0pt
+* \marginparwidth=44.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
-* \@twocolumntrue
+* \@twocolumnfalse
 * \@twosidefalse
 * \@mparswitchfalse
 * \@reversemarginfalse
@@ -434,116 +511,142 @@ Package caption Info: End \AtBeginDocument code.
 
 \openout3 = `acs-tcs94_EMAC270_TermPaperFD.bib'.
 
-\c@bibnote=\count308
-LaTeX Font Info:    Trying to load font information for U+msa on input line 38.
+\c@bibnote=\count315
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 38.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
 
 
 (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-[1{C:/Users/Trevor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+\OT1/cmr/m/n/12 Poly($\OML/cmm/m/it/12 ^^Z$\OT1/cmr/m/n/12 -phenylene
+ []
 
 
-]
-<Resources/References/Images/Bashandeh_Results_Summary.jpg, id=8, 557.08125pt x
- 130.98938pt>
+Package natbib Warning: Citation `Lau2014' on page 1 undefined on input line 78
+.
+
+[1
+
+{C:/Users/Trevor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 86--86
+|[]\OT1/cmr/bx/n/14.4 Thermally Sta-ble Poly-
+ []
+
+<Resources/References/Images/Bashandeh_Results_Summary.jpg, id=10, 557.08125pt 
+x 130.98938pt>
 File: Resources/References/Images/Bashandeh_Results_Summary.jpg Graphic file (t
 ype jpg)
 <use Resources/References/Images/Bashandeh_Results_Summary.jpg>
 Package pdftex.def Info: Resources/References/Images/Bashandeh_Results_Summary.
-jpg  used on input line 62.
+jpg  used on input line 92.
 (pdftex.def)             Requested size: 211.38849pt x 49.70451pt.
- [2 <./Resources/References/Images/Bashandeh_Results_Summary.jpg>]
-<Resources/References/Images/Batra_Results.jpeg, id=18, 746.03719pt x 512.66531
+[2 <./Resources/References/Images/Bashandeh_Results_Summary.jpg>]
+<Resources/References/Images/Batra_Results.jpeg, id=19, 746.03719pt x 512.66531
 pt>
 File: Resources/References/Images/Batra_Results.jpeg Graphic file (type jpg)
 <use Resources/References/Images/Batra_Results.jpeg>
 Package pdftex.def Info: Resources/References/Images/Batra_Results.jpeg  used o
-n input line 73.
+n input line 105.
 (pdftex.def)             Requested size: 187.89928pt x 129.12036pt.
+<Resources/References/Images/Kanbargi_pretreat_results.jpg, id=20, 452.6pt x 34
+7.48pt>
+File: Resources/References/Images/Kanbargi_pretreat_results.jpg Graphic file (t
+ype jpg)
+<use Resources/References/Images/Kanbargi_pretreat_results.jpg>
+Package pdftex.def Info: Resources/References/Images/Kanbargi_pretreat_results.
+jpg  used on input line 118.
+(pdftex.def)             Requested size: 187.89928pt x 144.25452pt.
+ [3 <./Resources/References/Images/Batra_Results.jpeg>]
+<Resources/References/Images/Kong_Results.jpg, id=25, 476.69pt x 362.81pt>
+File: Resources/References/Images/Kong_Results.jpg Graphic file (type jpg)
+<use Resources/References/Images/Kong_Results.jpg>
+Package pdftex.def Info: Resources/References/Images/Kong_Results.jpg  used on 
+input line 129.
+(pdftex.def)             Requested size: 187.89928pt x 143.00665pt.
+ [4 <./Resources/References/Images/Kanbargi_pretreat_results.jpg> <./Resources/
+References/Images/Kong_Results.jpg>]
+<Resources/References/Images/LeiWang_Results.jpg, id=29, 230.88026pt x 172.0409
+7pt>
+File: Resources/References/Images/LeiWang_Results.jpg Graphic file (type jpg)
+<use Resources/References/Images/LeiWang_Results.jpg>
+Package pdftex.def Info: Resources/References/Images/LeiWang_Results.jpg  used 
+on input line 138.
+(pdftex.def)             Requested size: 187.89928pt x 140.01393pt.
+<Resources/References/Images/Yang_Results_1.png, id=30, 229.69815pt x 185.13165
+pt>
+File: Resources/References/Images/Yang_Results_1.png Graphic file (type png)
+<use Resources/References/Images/Yang_Results_1.png>
+Package pdftex.def Info: Resources/References/Images/Yang_Results_1.png  used o
+n input line 151.
+(pdftex.def)             Requested size: 187.89928pt x 151.44733pt.
 
+[5 <./Resources/References/Images/LeiWang_Results.jpg> <./Resources/References/
+Images/Yang_Results_1.png>]
+<Resources/References/Images/Yang_Results_2.png, id=34, 2238.3625pt x 1730.465p
+t>
+File: Resources/References/Images/Yang_Results_2.png Graphic file (type png)
+<use Resources/References/Images/Yang_Results_2.png>
+Package pdftex.def Info: Resources/References/Images/Yang_Results_2.png  used o
+n input line 160.
+(pdftex.def)             Requested size: 187.89928pt x 145.25244pt.
+ [6 <./Resources/References/Images/Yang_Results_2.png (PNG copy)>] [7]
 
-Package achemso Warning: \bibliographystyle ignored on input line 86.
+Package achemso Warning: \bibliographystyle ignored on input line 179.
 
 (tcs94_EMAC270_TermPaperFD.bbl
-Underfull \hbox (badness 1024) in paragraph at lines 31--39
-[]\OT1/cmr/m/n/12 Bashandeh, K.; Tsigkis, V.; Lan, P.;
+Underfull \hbox (badness 1824) in paragraph at lines 40--47
+[]\OT1/cmr/m/n/12 Batra, R.; Dai, H.; Huan, T. D.; Chen, L.; Kim, C.; Gutekunst
+, W. R.;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--39
-\OT1/cmr/m/n/12 Poly-car-pou, A. A. \OT1/cmr/m/it/12 Tri-bol-ogy In-ter-
+Underfull \hbox (badness 1895) in paragraph at lines 48--54
+[]\OT1/cmr/m/n/12 Arnold, F. E.; Van Deusen, R. L. \OT1/cmr/m/it/12 Macro-molec
+ules \OT1/cmr/bx/n/12 1969\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 2\OT1/cmr/m/n/12 ,
+ 497--502, DOI:
  []
 
+)
 
-Underfull \hbox (badness 6445) in paragraph at lines 31--39
-\OT1/cmr/m/it/12 na-tional \OT1/cmr/bx/n/12 2021\OT1/cmr/m/n/12 , \OT1/cmr/m/it
-/12 153\OT1/cmr/m/n/12 , 106634, DOI:
- []
+Package natbib Warning: There were undefined citations.
 
-
-Underfull \hbox (badness 3646) in paragraph at lines 40--47
-[]\OT1/cmr/m/n/12 Batra, R.; Dai, H.; Huan, T. D.;
- []
-
-
-Underfull \hbox (badness 2103) in paragraph at lines 48--55
-[]\OT1/cmr/m/n/12 Li, T.; Mao, Z.; Du, J.; Song, Z.
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 48--55
-\OT1/cmr/m/it/12 Nano-ma-te-ri-als \OT1/cmr/bx/n/12 2022\OT1/cmr/m/n/12 , \OT1/
-cmr/m/it/12 12\OT1/cmr/m/n/12 , DOI:
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--87
-[]\OT1/cmr/m/n/12 Yang, X.; Tu, Q.; Shen, X.;
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 81--87
-\OT1/cmr/m/it/12 Poly-mers \OT1/cmr/bx/n/12 2019\OT1/cmr/m/n/12 , \OT1/cmr/m/it
-/12 11\OT1/cmr/m/n/12 , 1231, DOI:
- []
-
-) [3 <./Resources/References/Images/Batra_Results.jpeg>]
-(tcs94_EMAC270_TermPaperFD.aux)
+[8] (tcs94_EMAC270_TermPaperFD.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9429 strings out of 474424
- 203742 string characters out of 5741267
- 1938496 words of memory out of 5000000
- 31650 multiletter control sequences out of 15000+600000
- 567686 words of font info for 74 fonts, out of 8000000 for 9000
+ 9612 strings out of 474424
+ 205061 string characters out of 5741267
+ 1940496 words of memory out of 5000000
+ 31826 multiletter control sequences out of 15000+600000
+ 569623 words of font info for 80 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,8n,79p,1475b,531s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmbx12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmmi12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/f
-onts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Trevor/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/Trevor/AppData/Local
-/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Trevor/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Trev
-or/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/
-Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8
-.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
-/cm/cmti12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmtt12.pfb>
-Output written on tcs94_EMAC270_TermPaperFD.pdf (3 pages, 277330 bytes).
+ 64i,8n,79p,1792b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Trevor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m0800.pk><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmbx8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Trevor/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Trevor/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Trevor/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Trevo
+r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Use
+rs/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+fb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmsy8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmti12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type
+1/public/amsfonts/cm/cmtt12.pfb>
+Output written on tcs94_EMAC270_TermPaperFD.pdf (8 pages, 1433379 bytes).
 PDF statistics:
- 69 PDF objects out of 1000 (max. 8388607)
+ 96 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

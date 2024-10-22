@@ -1,4 +1,4 @@
-\documentclass[12pt, twocolumn]{article}
+\documentclass[12pt]{article}
 
 % Math and symbol packages
 \usepackage{amsmath}
@@ -14,19 +14,21 @@
 \usepackage{subfigure}
 \usepackage{caption}
 
-% Formatting and Random Text Generation
+% Formatting
 \usepackage{inputenc}
 \usepackage[left=2.54cm,right=2.54cm,top=2.54cm,bottom=2.54cm]{geometry}
-\usepackage{lipsum}
 \usepackage[doi=true]{achemso}
 \usepackage[numbers,sort&compress]{natbib}
+\usepackage{setspace}
+\usepackage{multicol}
+\usepackage{titlesec}
 
 % Header and indent packages
 \usepackage{fancyhdr}
 \usepackage{indentfirst}
 
 % Create Title Section
-\title{Polymers for Extreme Temperature Applications}
+\title{\textbf{Polymers for Extreme Temperature Applications}}
 \author{Trevor Swan \\
 Department of Macromolecular Science and Engineering \\ 
 Case Western Reserve University \\
@@ -37,17 +39,43 @@ Cleveland, OH 44016-7079}
 
 \maketitle
 
-\section{Abstract}
+\hrule height 1pt
+\vspace{1em}
 
-\indent I will write the abstract as the last part of my paper, as it should survey the topics and results discussed. Citation examples for LaTeX, which I will be using to write and format this paper, compilation. I am using ACS as a reference style. Also, I have appropriately removed the outline from this document.
-	
-\indent I am using BibTex to compile my refs.bib document for this paper, please let me know if my citations are done incorrectly so I can change them sooner rather than later. \textbf{Please note that I have more references than listed here, but the paragraphs I wrote for this draft do not make use of all of them, so LaTeX doesn't include them}.
+\noindent % Prevents indentation
+\begin{minipage}[t]{0.2\textwidth}
+    \subsection*{Article Info}
+    \vspace{-0.5em}
+    \hrule height 1pt
+    \vspace{0.5em}
+    \textit{Keywords:}\\
+    	Hypersonic\\
+        Poly($\rho$-phenylene terephthalamide)\\
+        Polydopamine\\
+    	Morphology
+\end{minipage}%
+\hfill % Adds space between the minipages
+\begin{minipage}[t]{0.75\textwidth}
+    \section*{Abstract}
+    \vspace{-0.97em}
+    \hrule height 1pt
+    \vspace{0.5em}
+    
+    \indent I will write the abstract as the last part of my paper, as it should survey the topics and results discussed. Citation examples for LaTeX, which I will be using to write and format this paper, compilation. I am using ACS as a reference style. Also, I have appropriately removed the outline from this document.
 
-\indent As i am not writing an abstract until the rest of the paper is complete, I included more detail in the next 2 sections, though I have a lot of work to do. I also plan on adding images to the paper down the line.
+    \indent I am using BibTex to compile my refs.bib document for this paper; please let me know if my citations are done incorrectly so I can change them sooner rather than later. \textbf{Please note that I have more references than listed here, but the paragraphs I wrote for this draft do not make use of all of them, so LaTeX doesn't include them}.
+        
+    \indent As I am not writing an abstract until the rest of the paper is complete, I included more detail in the next two sections, though I have a lot of work to do. I also plan on adding images to the paper down the line.
+\end{minipage}
+
+\vspace{1em}
+\hrule height 1pt
+
+\begin{multicols}{2}
 
 \section{Introduction}
 
-\indent Hypersonic travel has long been a major point of interest in the aerospace industry and scientific community alike. Speeds exceeding Mach 5 offer significant potential with respect to both commercial and defense based applications. However, the extreme temperature conditions associated with hypersonic travel pose substantial material challenges. Materials used must exhibit high thermal resistance while also being manufacturable and moldable into various complex shapes for a wide range of applications. Moreover, they must have consistent mechanical properties across a wide temperature range. Finding a material that meets these demanding criteria has proven to be remarkably difficult.
+\indent Hypersonic travel has long been a major point of interest in the aerospace industry and scientific community alike. Speeds exceeding Mach 5 offer significant potential with respect to both commercial and defense based applications. For example, since the 1980s, NASA and the United States Government have been looking for state-of-the-art high-performance composites to facilitate High Speed Civil Transport (HSCT), air-to-air tactical missiles, and Advanced Technical Fighters (ATFs). \citep{Lau2014} However, the extreme temperature conditions associated with hypersonic travel pose substantial material challenges. Materials used must exhibit high thermal resistance while also being manufacturable and moldable into various complex shapes for a wide range of applications. Moreover, they must have consistent mechanical properties across a wide temperature range. Finding a material that meets these demanding criteria has proven to be remarkably difficult.
 	
 \indent Polymer science has been at the heart of addressing these material concerns due to the versatility and wide range of properties that polymers offer. Unlike metals and other commonly used materials, polymers have the potential to be incredibly lightweight solutions while also having tunable properties for specific applications. Through the study of polymers, optimized materials can be derived such that they can withstand the extreme thermal and mechanical stresses encountered when traveling at hypersonic speeds. 
 
@@ -55,33 +83,98 @@ Cleveland, OH 44016-7079}
 	
 \section{Results and Discussion}
 
+\subsection{Thermally Stable Polymeric Lubricants}
+
 \indent Recent research has highlighted tribological solutions for extreme temperatures ranging from $-196$\degree C to $300$\degree C. While these temperatures do not reach the $500+$\degree C expected with hypersonic travel, they do offer coating and lubricant solutions aircraft components that may be within this range. Aromatic thermosetting co-polyesters (ATSP) based coatings were tested in high friction environments by sliding them against metal counterparts. Upon this sliding, a transfer layer was created between the coating and the metal. This resulted in a low coefficient of friction (COF) while the ATSP wear also showed minimal wear. Along with being in the aforementioned temperature range, the coatings were also exposed to pressures up to 1 MPa while still experiencing negligible wear. \citep{Bashandeh2021} Being able to make use of these so-called 'self-lubricating' polymers is ideal in scenarios where the use of liquid lubricants is not feasible. Notably, ensuring a low COF with little material wear allows for longer term use of the coatings, which reduces maintenance costs and is therefore financially desirable.
 
-\begin{figure}[h]
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.45\textwidth]{Resources/References/Images/Bashandeh_Results_Summary.jpg}
     \caption{\scriptsize{Adapted from Bashandeh et al. 2021 \citep{Bashandeh2021}}}
     \label{fig:Bashandeh-Summary}
 \end{figure}
 
-\indent In addition to their study on Bashandeh et al. also report on polyether ether ketone (PEEK)-, polytetrafluoroethylene (PTFE), and Fluoropolymer (FP)-based coatings. As supported by Figure \ref{fig:Bashandeh-Summary} which summarizes the results of their work, these materials cannot withstand the same conditions as the ATSP-based coatings. To further analyze ATSP coatings, Scanning Electron Microscopy (SEM) was used to observe mechanical properties and behavior. While ATSP-based coatings show promise for hypersonic travelat a first glance, it should be noted that the SEM results reveal microcracks forming around 300\degree C, and that ATSP on its own has a relatively low $T_g$ between $233$ and $244$\degree C. Considering the potential temperatures faced at hypersonic speeds as well as inherent mechanical stresses applied by the aircraft, these coatings may not be of much use.That being said, upon further refining of the coatings, thermal and mechanical properties of these coatings may be more suited for extreme temperature applications. 
+\indent In addition to their study on Bashandeh et al. also report on polyether ether ketone (PEEK)-, polytetrafluoroethylene (PTFE), and Fluoropolymer (FP)-based coatings. As supported by Figure \ref{fig:Bashandeh-Summary} which summarizes the results of their work, these materials cannot withstand the same conditions as the ATSP-based coatings. To further analyze ATSP coatings, Scanning Electron Microscopy (SEM) was used to observe mechanical properties and behavior. While ATSP-based coatings show promise for hypersonic travel at a first glance, it should be noted that the SEM results reveal microcracks forming around 300\degree C, and that ATSP on its own has a relatively low $T_g$ between $233$ and $244$\degree C. Considering the potential temperatures faced at hypersonic speeds as well as inherent mechanical stresses applied by the aircraft, these coatings may not be of much use.That being said, upon further refining of the coatings, thermal and mechanical properties of these coatings may be more suited for extreme temperature applications. 
 
-\indent Keeping in mind the shortcomings of the previously discussed coatings, there has been an effort to synthesize more specific materials with finely tuned material and thermal properties. Deriving synthesis schemes and the desired product, more broadly, for these materials has recently been streamlined with advancements in machine learning. Using sets of data with known properties and deep neural networks, a variation auto-encoder (VAE) is able to construct desired output sequences to learn about specific polymer properties. \citep{Batra2020} Making use of the VAE model, Batra set property goals to $T_g>600K$ to generate a variety of possibilities for the polymer. Using its training data, the VAE was able to output plenty of candidates (300+) to fit the input requirements. Specifically, some the high $T_g$ materials generated can be seen in Figure \ref{fig:Batra_Results}, and it should be noted that almost all of the $T_g$-fulfilling materials contain aromatic rings. This observation is important to keep in mind when evaluating candidates for high temperature applications, as polymers with higher glass transition temperatures are desirable for certain hypersonic aircraft components. Although not inlcluded below, Batra used the VAE to generate electrically stable materials as well, emphasizing the effectiveness of machine learning in the development of highly specialized materials.
+\subsection{Machine Learning to Generate Compounds}
 
-\begin{figure}[h]
+\indent Keeping in mind the shortcomings of the previously discussed coatings, there has been an effort to synthesize more specific materials with finely tuned material and thermal properties. Deriving synthesis schemes and the desired product, more broadly, for these materials has recently been streamlined with advancements in machine learning. Using sets of data with known properties and deep neural networks, a variation auto-encoder (VAE) is able to construct desired output sequences to learn about specific polymer properties. \citep{Batra2020} Making use of the VAE model, Batra set property goals to $T_g>600K$ to generate a variety of possibilities for the polymer. Using its training data, the VAE was able to output plenty of candidates (300+) to fit the input requirements. Specifically, some the high $T_g$ materials generated can be seen in Figure \ref{fig:Batra_Results}, and it should be noted that almost all of the $T_g$-fulfilling materials contain aromatic rings. This observation is important to keep in mind when evaluating candidates for high temperature applications, as polymers with higher glass transition temperatures are desirable for certain hypersonic aircraft components. Although not included below, Batra used the VAE to generate electrically stable materials as well, emphasizing the effectiveness of machine learning in the development of highly specialized materials.
+
+\begin{figure}[H]
     \centering
     \includegraphics[width=0.4\textwidth]{Resources/References/Images/Batra_Results.jpeg}
     \caption{\scriptsize{Adapted from Batra et al. 2020 \citep{Batra2020}}}
     \label{fig:Batra_Results}
 \end{figure}
 
-\indent Looking for aromatic based polymer backbones, research has pointed to Poly($\rho$-phenylene terephthalamide) fibers as a solution. These fibers have been long used in the aerospace and automotive industries as reinforced long fiber composites for their extremely high modulus and tensile strength. These fibers, however, limit the strength of the composites they are used in due to poor interfacial adhesion between the fiber and the matrix. \citep{Kanbargi2017} Kanbargi et al. argue that these composites can be made more viable by altering PPTA fiber surface morphology such that there can be covalent bonding between the altered fiber and the matrix. The group 
+\indent The results of Figure \ref{fig:Batra_Results} are supported by a 1969 entry by F.E Arnold which suggests that the thermal properties of polymerized aromatic compounds are desirable. \citep{Arnold1969} This suggests that the first discussed study was on the right track, but that other similar compounds should be investigated for applications in more extreme environments.
+
+\subsection{PPTA Fiber Morphology}
+\vspace{-0.4em}
+\indent Looking for aromatic based polymer backbones, research has pointed to Poly($\rho$-phenylene terephthalamide) (PPTA), a para-aramid polymer commonly referred to as Kevlar$^{\text{\textcopyright}}$, as a solution. \citep{Liu2019} These fibers have been long used in the aerospace and automotive industries as reinforced long fiber composites for their extremely high modulus and tensile strength. \cite{Cheng2005} The high modulus possessed by PPTA fibers is due to the high stiffness of the aromatic polyamide chains in conjunction with the largely distributed hydrogen bonding regions in the material. \citep{Wang2020} The strength of PPTA prepared composites, however, lacks in performance and strength due to poor interfacial adhesion between the fiber and the matrix. \citep{Kanbargi2017} Kanbargi et al. \citep{Kanbargi2017} argue that these composites can be made more viable by altering PPTA fiber surface morphology such that there can be covalent bonding between the altered fiber and the matrix. The group found that mechanical and microwave pretreatments of the fiber allowed interactions with a coupling agent which altered the morphology of the fibers in such a way that the fiber-matrix adhesion was significantly increased. They made use of the coupling agent supercritical carbon dioxide scCO$_2$ and found the interfacial adhesion to be up to 2 times greater than the control group. \citep{Kanbargi2017} The effect of the pretreatments on adhesion can be seen in more detail in Figure \ref{fig:Kanbargi_Results}. The results of their study is promising as these composites would theoretically maintain both their low thermal conductivity and high mechanical strength upon altering their morphology.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Resources/References/Images/Kanbargi_pretreat_results.jpg}
+    \caption{\scriptsize{Adapted from Kanbargi et al. 2017 \citep{Kanbargi2017}}}
+    \label{fig:Kanbargi_Results}
+\end{figure}
+
+\subsection{Polydopamine Based Solutions}
+
+\indent In an effort to increase PPTA's adhesive ability, researchers looked to nature for naturally occurring sticky substances. Marine mussel's have proteins which contribute to their sticking ability, namely $L$-DOPA and lysine. \citep{Waite2001}. Lee et al. \citep{Lee2007} found that dopamine, a molecule with both the properties of $L$-DOPA and lysine, can self-polymerize to form polydopamine (PDA) film to be used on almost all substances. \citep{Yuan2017} Polydopamine is frequently used to modify fibers due to its hydrophilicity and stable polymerization properties under mild reaction conditions. The benefits of polydopamine film was directly observed when testing nitrile butadiene rubber (NBR) composites. \citep{Kong2018}. Kong et al. \citep{Kong2018} found that NBR/PDA-PPTA composites experienced considerably higher tensile strengths as the DOPA concentration increased. This is directly indicative of strong interfacial adhesion between the fiber and matrix. As seen in Figure \ref{fig:Kong_Results}, there is a clear correlation between PDA (DOPA) concentration and the tensile strength of the composite material. This can be attributed to the introduction of PDA adding a layer on the fiber which becomes thicker and more coarse as the amount of PDA added increases. The results of Kong et al's \citep{Kong2018} illustrates the effectiveness of PDA coatings in modifying the surface of PPTA fibers and hence increasing the interfacial adhesion between them and their respective matrix. This allows the mechanical properties of the composites to be controlled and refined while also maintaining the thermal stability of the PPTA fibers. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Resources/References/Images/Kong_Results.jpg}
+    \caption{\scriptsize{Adapted from Kong et al. 2008 \citep{Kong2018}}}
+    \label{fig:Kong_Results}
+\end{figure}
+
+\indent Due to the increasing price of dopamine over the years, researches also looked into using ethylene glycol diglycidyl ether (EGDE) and poly(catechol/polyamine) (PCPA) based solutions to PPTA's poor interfacial adhesion. \citep{LeiWang2017} While these solutions are cheaper, they do maintain some of the same desired properties discussed previously. As supported by Figure \ref{fig:LeiWang_Results} the PPTA-PCPA-EDGE fibers performed much better in the long run, while the PPTA-PCPA and PPTA fiber showed reduced weight loss around the 500 \degree C mark. Specifically, the PPTA-PCPA-EDGE fibers experience about a 10wt\% drop in residual weight at theoretical hypersonic temperatures.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Resources/References/Images/LeiWang_Results.jpg}
+    \caption{\scriptsize{Adapted from Lei Wang et al. 2017 \citep{LeiWang2017}}}
+    \label{fig:LeiWang_Results}
+\end{figure}
+
+\indent That being said, the use of EGDE in the PPTA fibers does allow the surface morphology of the fibers to be altered such that they can better create stronger polymers. The strong chemical bonds formed between the PPTA fibers grafted with EGDE and the rubber significantly enhance fiber durability and stress transfer. \citep{Kong2018} Chemically, the increased grafting time allows the introduction of epoxy groups which can be reacted with sulfer radicals generated during the vulcanization process of the rubber. \citep{Zhang2012} As discussed later in this review, there are solutions to PPTA's interfacial adhesion problem that perform better across the board, but this experiment does show some promise especially with more refined materials for more desired properties.
+
+\subsection{Carbon Nanotube Grafting}
+
+\indent Researchers also made use of the adhesive strength of polydopamine with aminated carbon nanotubes (NH$_2$-CNTs) to enhance the interfacial adhesion between PPTA fibers and a rubber matrix. Yang et al. \citep{Yang2019} used PDA as a precursor coating for PPTA fibers so that they could then be grafted with the CNTs mentioned previously. The group performed thermogravimetric analysis on 6 samples to compare the weight loss over time. In Figure \ref{fig:Yang_Results_1}, A-PPTA represents as-is PPTA fibers, and PDA-PPTA represents PPTA treated only with PDA. PPTA-1, PPTA-2, and PPTA-3 are represent the different grafted PPTA fibers in order of increasing reaction time. The results of their analysis expectedly revealed that the amount of time given to react with the aminated carbon nanotubes improved the thermal properties of the PPTA fibers. In other words, grafting extremely thermally insulating materials like CNTs into the PPTA fibers results in a better thermal properties overall. Summarizing the results of Figure \ref{fig:Yang_Results_1}, it should be noted that the PPTA with the largest amount of grafted CNTs has the highest weight retention across the the TGA range. Specifically, this fiber was able to withstand temperatures around 500\degree C with minimal weight loss. 
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Resources/References/Images/Yang_Results_1.png}
+    \caption{\scriptsize{Adapted from Yang et al. 2019 \citep{Yang2019}}}
+    \label{fig:Yang_Results_1}
+\end{figure}
+
+\indent Using the PDA as a precursor for the PPTA fibers allows the composites made to have increased tensile strength as well, which is the main concern when working with PPTA fibers. Yang et al. \citep{Yang2019} measured the pull-out force from the various PPTA sample with the rubber. As seen in Figure \ref{fig:Yang_Results_2}, the pull out force increased from the A-PPTA samples up to the PPTA-3 sample, increasing from $28.3$N to $45.2$N \citep{Yang2019}. As discussed earlier, this trend is supported by the overwhelmingly smooth surface on the A-PPTA fibers which prohibits strong interfacial adhesion between the fiber and matrix in the composite. As the reaction time increases, more NH$_2$-CNTs can be deposited onto the fiber which increases the roughness of the fiber surface. This promotes surface energy of the fibers \citep{Yang2019}, which correlates to an increase in the interactions between the PPTA fibers and rubber matrix. This suggests that the addition of NH$_2$-CNTs is beneficial to not only the thermal properties of produced composites with PPTA, but also for increasing the mechanical properties which were previously lacking among PPTA fibers in general.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.4\textwidth]{Resources/References/Images/Yang_Results_2.png}
+    \caption{\scriptsize{Adapted from Yang et al. 2019 \citep{Yang2019}}}
+    \label{fig:Yang_Results_2}
+\end{figure}
+
+\subsection{PDA Dip-Coated Carbon Fibers}
+
+\indent In an attempt to find another carbon-based solution, carbon fibers (CFs) were studied as they have excellent mechanical properties and low weight. Issues arise when used to reinforce composites, however, as untreated carbon fibers suffer from low surface activity. Chen et al. \citep{ShushengChen2014} attempted to counteract this through oxidation methods, fiber sizing, and coating. Oxidation methods proved to not be effective as they damaged the mechanical properties of the fibers, and fiber sizing proved ineffective as most sizing agents are not able to interact with the hydrophobic CFs. Making use of dip-coating the CFs in polydopamine film, the CFs were converted from hydrophobic to hydrophilic. \citep{ShushengChen2014} The group then performed thermogravimetric analysis with short carbon fibers (SCFs) treated with the aforementioned dip coating method. This analysis revealed that the treated SCFs, referred to hereafter as PDA-SCFs, started to lose weight around 300\degree C, specifically losing about 2wt\% at 500\degree C. \citep{ShushengChen2014} To test if the surface activity of the fibers was improved, they were then added in 15wt\% to both polar and non-polar resins. Upon analysis, the tensile strength of the composites increased by 70 and 60\% respectively, which was about a 1.5-2 times improvement. \citep{ShushengChen2014} The results of Chen et al.'s \citep{ShushengChen2014} study illustrates the effectiveness of polydopamine in creating functional fibers from otherwise unusable ones like CFs for use in specific composites with certain resins and matrices. 
 
 \section{Conclusions}
 
-\indent Poly($\rho$-phenylene terephthalamide), more commonly referred to as PPTA, fiber has desirable mechanical properties while maintaining low thermal conductivity.\citep{LiTong2022} PPTA fiber on its own is not suitable for high temperature applications and must be enhanced experimentally. Due to the nature of polymers, this is no arduous task. Through the use of Scanning Electron Microscopy (SEM), these properties can be closely monitored as modifications are made. 
+\indent In this review I have discussed the potential polymeric solutions for high temperature and hence hypersonic applications. Namely, poly($\rho$-phenylene terephthalamide), more commonly referred to as PPTA or Kevlar$^{\text{\textcopyright}}$, fiber can be altered to obtain desirable mechanical properties while maintaining low thermal conductivity. \citep{LiTong2022} PPTA fiber on its own is not suitable for high temperature applications due to its poor mechanical stability in composites, and therefore it must be enhanced experimentally. This is necessary to prevent mechanical wear from high amounts of stress applied by moving mechanical parts, air resistance and friction with the air, and variations in air pressure. Due to the nature of polymers, this is no arduous task. Through the use of many different experimental techniques, these properties can be closely monitored as modifications are made. 
 
-\indent By making use of Ethylene glycol diglycidyl ether (EGDE)\citep{LeiWang2017}, altering the polymers morphology \citep{Kanbargi2017}, introducing nanocomposites \citep{BoZhang2021}, and utilizing carbon nanotubes \citep{Yang2019}, PPTA can become viable for hypersonic travel. Enhancing this materials already present thermal and mechanical properties allows it to withstand temperature ranges between 30\degree C and 800\degree C with decreased thermal weight loss \citep{ShushengChen2014}. While there is still room for improvement, composite materials utilizing PPTA fibers prove to be a useful tool for designing materials fit for hypersonic travel.
+\indent By making use of polydopamine \citep{}, ethylene glycol diglycidyl ether (EGDE)\citep{LeiWang2017}, altering the polymers morphology \citep{Kanbargi2017}, introducing nanocomposites \citep{BoZhang2021}, and utilizing carbon nanotubes \citep{Yang2019}, PPTA can become viable for hypersonic travel. Enhancing this materials already present thermal and mechanical properties allows it to withstand temperature ranges between 30\degree C and 800\degree C with decreased thermal weight loss \citep{ShushengChen2014}. While there is still room for improvement, composite materials utilizing PPTA fibers prove to be a useful tool for designing materials fit for hypersonic travel.
+
+\end{multicols}
+
+\newpage 
 
 \bibliographystyle{achemso}
 \bibliography{refs} 
