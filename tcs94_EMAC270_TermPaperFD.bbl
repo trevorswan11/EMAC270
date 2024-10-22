@@ -8,7 +8,7 @@
 \providecommand*\mcitethebibliography{\thebibliography}
 \csname @ifundefined\endcsname{endmcitethebibliography}
   {\let\endmcitethebibliography\endthebibliography}{}
-\begin{mcitethebibliography}{18}
+\begin{mcitethebibliography}{19}
 \providecommand*\natexlab[1]{#1}
 \providecommand*\mciteSetBstSublistMode[1]{}
 \providecommand*\mciteSetBstMaxWidthForm[2]{}
@@ -26,6 +26,14 @@
   {\relax}
   {\relax}
 
+\bibitem[Lau(2014)]{Lau2014}
+Lau,~K.~S. In \emph{Handbook of Thermoset Plastics (Third Edition)};
+  Dodiuk,~H., Goodman,~S.~H., Eds.; William Andrew Publishing: Boston, 2014; pp
+  297--424\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Bashandeh \latin{et~al.}(2021)Bashandeh, Tsigkis, Lan, and
   Polycarpou]{Bashandeh2021}
 Bashandeh,~K.; Tsigkis,~V.; Lan,~P.; Polycarpou,~A.~A. \emph{Tribology
@@ -113,6 +121,15 @@ Kong,~H.; Ding,~H.; Yu,~M.; Ding,~X.; Qiao,~M. \emph{Polymer Composites}
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Wang \latin{et~al.}(2017)Wang, Shi, Chen, Wang, Tian, Ning, and
+  Zhang]{LeiWang2017}
+Wang,~L.; Shi,~Y.; Chen,~S.; Wang,~W.; Tian,~M.; Ning,~N.; Zhang,~L.
+  \emph{Chemical Engineering Journal} \textbf{2017}, \emph{314}, 583--593, DOI:
+  \doi{10.1016/j.cej.2016.12.015}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Zhang \latin{et~al.}(2012)Zhang, Cheng, Shi, Lin, and
   Zhang]{Zhang2012}
 Zhang,~G.; Cheng,~J.; Shi,~L.; Lin,~X.; Zhang,~J. \emph{Thermochimica Acta}
@@ -139,15 +156,6 @@ Chen,~S.; Cao,~Y.; Feng,~J. \emph{ACS Applied Materials \& Interfaces}
 \bibitem[Li \latin{et~al.}(2022)Li, Mao, Du, and Song]{LiTong2022}
 Li,~T.; Mao,~Z.; Du,~J.; Song,~Z. \emph{Nanomaterials} \textbf{2022},
   \emph{12}, DOI: \doi{10.3390/nano12183136}\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Wang \latin{et~al.}(2017)Wang, Shi, Chen, Wang, Tian, Ning, and
-  Zhang]{LeiWang2017}
-Wang,~L.; Shi,~Y.; Chen,~S.; Wang,~W.; Tian,~M.; Ning,~N.; Zhang,~L.
-  \emph{Chemical Engineering Journal} \textbf{2017}, \emph{314}, 583--593, DOI:
-  \doi{10.1016/j.cej.2016.12.015}\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax

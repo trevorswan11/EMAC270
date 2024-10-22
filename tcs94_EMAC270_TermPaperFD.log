@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  22 OCT 2024 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  22 OCT 2024 19:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -527,126 +527,117 @@ Underfull \hbox (badness 10000) in paragraph at lines 51--56
 \OT1/cmr/m/n/12 Poly($\OML/cmm/m/it/12 ^^Z$\OT1/cmr/m/n/12 -phenylene
  []
 
-
-Package natbib Warning: Citation `Lau2014' on page 1 undefined on input line 78
-.
-
 [1
 
 {C:/Users/Trevor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
-Underfull \hbox (badness 10000) in paragraph at lines 86--86
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
 |[]\OT1/cmr/bx/n/14.4 Thermally Sta-ble Poly-
  []
 
-<Resources/References/Images/Bashandeh_Results_Summary.jpg, id=10, 557.08125pt 
+<Resources/References/Images/Bashandeh_Results_Summary.jpg, id=11, 557.08125pt 
 x 130.98938pt>
 File: Resources/References/Images/Bashandeh_Results_Summary.jpg Graphic file (t
 ype jpg)
 <use Resources/References/Images/Bashandeh_Results_Summary.jpg>
 Package pdftex.def Info: Resources/References/Images/Bashandeh_Results_Summary.
-jpg  used on input line 92.
+jpg  used on input line 88.
 (pdftex.def)             Requested size: 211.38849pt x 49.70451pt.
 [2 <./Resources/References/Images/Bashandeh_Results_Summary.jpg>]
-<Resources/References/Images/Batra_Results.jpeg, id=19, 746.03719pt x 512.66531
+<Resources/References/Images/Batra_Results.jpeg, id=18, 746.03719pt x 512.66531
 pt>
 File: Resources/References/Images/Batra_Results.jpeg Graphic file (type jpg)
 <use Resources/References/Images/Batra_Results.jpeg>
 Package pdftex.def Info: Resources/References/Images/Batra_Results.jpeg  used o
-n input line 105.
+n input line 101.
 (pdftex.def)             Requested size: 187.89928pt x 129.12036pt.
-<Resources/References/Images/Kanbargi_pretreat_results.jpg, id=20, 452.6pt x 34
+ [3 <./Resources/References/Images/Batra_Results.jpeg>]
+<Resources/References/Images/Kanbargi_pretreat_results.jpg, id=23, 452.6pt x 34
 7.48pt>
 File: Resources/References/Images/Kanbargi_pretreat_results.jpg Graphic file (t
 ype jpg)
 <use Resources/References/Images/Kanbargi_pretreat_results.jpg>
 Package pdftex.def Info: Resources/References/Images/Kanbargi_pretreat_results.
-jpg  used on input line 118.
+jpg  used on input line 114.
 (pdftex.def)             Requested size: 187.89928pt x 144.25452pt.
- [3 <./Resources/References/Images/Batra_Results.jpeg>]
-<Resources/References/Images/Kong_Results.jpg, id=25, 476.69pt x 362.81pt>
+<Resources/References/Images/Kong_Results.jpg, id=24, 476.69pt x 362.81pt>
 File: Resources/References/Images/Kong_Results.jpg Graphic file (type jpg)
 <use Resources/References/Images/Kong_Results.jpg>
 Package pdftex.def Info: Resources/References/Images/Kong_Results.jpg  used on 
-input line 129.
+input line 125.
 (pdftex.def)             Requested size: 187.89928pt x 143.00665pt.
  [4 <./Resources/References/Images/Kanbargi_pretreat_results.jpg> <./Resources/
 References/Images/Kong_Results.jpg>]
-<Resources/References/Images/LeiWang_Results.jpg, id=29, 230.88026pt x 172.0409
+<Resources/References/Images/LeiWang_Results.jpg, id=28, 230.88026pt x 172.0409
 7pt>
 File: Resources/References/Images/LeiWang_Results.jpg Graphic file (type jpg)
 <use Resources/References/Images/LeiWang_Results.jpg>
 Package pdftex.def Info: Resources/References/Images/LeiWang_Results.jpg  used 
-on input line 138.
+on input line 134.
 (pdftex.def)             Requested size: 187.89928pt x 140.01393pt.
-<Resources/References/Images/Yang_Results_1.png, id=30, 229.69815pt x 185.13165
+<Resources/References/Images/Yang_Results_1.png, id=29, 229.69815pt x 185.13165
 pt>
 File: Resources/References/Images/Yang_Results_1.png Graphic file (type png)
 <use Resources/References/Images/Yang_Results_1.png>
 Package pdftex.def Info: Resources/References/Images/Yang_Results_1.png  used o
-n input line 151.
+n input line 147.
 (pdftex.def)             Requested size: 187.89928pt x 151.44733pt.
 
 [5 <./Resources/References/Images/LeiWang_Results.jpg> <./Resources/References/
 Images/Yang_Results_1.png>]
-<Resources/References/Images/Yang_Results_2.png, id=34, 2238.3625pt x 1730.465p
+<Resources/References/Images/Yang_Results_2.png, id=33, 2238.3625pt x 1730.465p
 t>
 File: Resources/References/Images/Yang_Results_2.png Graphic file (type png)
 <use Resources/References/Images/Yang_Results_2.png>
 Package pdftex.def Info: Resources/References/Images/Yang_Results_2.png  used o
-n input line 160.
+n input line 156.
 (pdftex.def)             Requested size: 187.89928pt x 145.25244pt.
  [6 <./Resources/References/Images/Yang_Results_2.png (PNG copy)>] [7]
 
-Package achemso Warning: \bibliographystyle ignored on input line 179.
+Package achemso Warning: \bibliographystyle ignored on input line 175.
 
 (tcs94_EMAC270_TermPaperFD.bbl
-Underfull \hbox (badness 1824) in paragraph at lines 40--47
+Underfull \hbox (badness 1824) in paragraph at lines 48--55
 []\OT1/cmr/m/n/12 Batra, R.; Dai, H.; Huan, T. D.; Chen, L.; Kim, C.; Gutekunst
 , W. R.;
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 48--54
+Underfull \hbox (badness 1895) in paragraph at lines 56--62
 []\OT1/cmr/m/n/12 Arnold, F. E.; Van Deusen, R. L. \OT1/cmr/m/it/12 Macro-molec
 ules \OT1/cmr/bx/n/12 1969\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 2\OT1/cmr/m/n/12 ,
  497--502, DOI:
  []
 
-)
-
-Package natbib Warning: There were undefined citations.
-
-[8] (tcs94_EMAC270_TermPaperFD.aux)
+[8]) [9] (tcs94_EMAC270_TermPaperFD.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 9612 strings out of 474424
- 205061 string characters out of 5741267
- 1940496 words of memory out of 5000000
- 31826 multiletter control sequences out of 15000+600000
- 569623 words of font info for 80 fonts, out of 8000000 for 9000
+ 9613 strings out of 474424
+ 205087 string characters out of 5741267
+ 1939496 words of memory out of 5000000
+ 31828 multiletter control sequences out of 15000+600000
+ 569314 words of font info for 79 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  64i,8n,79p,1792b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\Trevor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
 m0800.pk><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmbx12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/p
-ublic/amsfonts/cm/cmbx8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/font
-s/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/Trevor/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Trevor/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Trevor/AppDat
-a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Trevo
-r/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Use
-rs/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.p
+ublic/amsfonts/cm/cmmi12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Trevor/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Trevor/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Trevor/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Trevor
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
+ers/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.p
 fb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmsy8.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmti12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmtt12.pfb>
-Output written on tcs94_EMAC270_TermPaperFD.pdf (8 pages, 1433379 bytes).
+m/cmti12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmtt12.pfb>
+Output written on tcs94_EMAC270_TermPaperFD.pdf (9 pages, 1425697 bytes).
 PDF statistics:
- 96 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
