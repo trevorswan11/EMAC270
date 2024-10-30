@@ -30,14 +30,7 @@
   Polycarpou]{Bashandeh2021}
 Bashandeh,~K.; Tsigkis,~V.; Lan,~P.; Polycarpou,~A.~A. \emph{Tribology
   International} \textbf{2021}, \emph{153}, 106634, DOI:
-  \doi{https://doi.org/10.1016/j.triboint.2020.106634}\relax
-\mciteBstWouldAddEndPuncttrue
-\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
-{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
-\EndOfBibitem
-\bibitem[Li \latin{et~al.}(2022)Li, Mao, Du, and Song]{LiTong2022}
-Li,~T.; Mao,~Z.; Du,~J.; Song,~Z. \emph{Nanomaterials} \textbf{2022},
-  \emph{12}, DOI: \doi{10.3390/nano12183136}\relax
+  \doi{10.1016/j.triboint.2020.106634}\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -51,19 +44,25 @@ Batra,~R.; Dai,~H.; Huan,~T.~D.; Chen,~L.; Kim,~C.; Gutekunst,~W.~R.; Song,~L.;
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
+\bibitem[Li \latin{et~al.}(2022)Li, Mao, Du, and Song]{LiTong2022}
+Li,~T.; Mao,~Z.; Du,~J.; Song,~Z. \emph{Nanomaterials} \textbf{2022},
+  \emph{12}, DOI: \doi{10.3390/nano12183136}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
 \bibitem[Wang \latin{et~al.}(2017)Wang, Shi, Chen, Wang, Tian, Ning, and
   Zhang]{LeiWang2017}
 Wang,~L.; Shi,~Y.; Chen,~S.; Wang,~W.; Tian,~M.; Ning,~N.; Zhang,~L.
   \emph{Chemical Engineering Journal} \textbf{2017}, \emph{314}, 583--593, DOI:
-  \doi{https://doi.org/10.1016/j.cej.2016.12.015}\relax
+  \doi{10.1016/j.cej.2016.12.015}\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
 \EndOfBibitem
 \bibitem[Kanbargi and Lesser(2018)Kanbargi, and Lesser]{Kanbargi2017}
 Kanbargi,~N.; Lesser,~A.~J. \emph{Journal of Applied Polymer Science}
-  \textbf{2018}, \emph{135}, 45520, DOI:
-  \doi{https://doi.org/10.1002/app.45520}\relax
+  \textbf{2018}, \emph{135}, 45520, DOI: \doi{10.1002/app.45520}\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
@@ -72,7 +71,7 @@ Kanbargi,~N.; Lesser,~A.~J. \emph{Journal of Applied Polymer Science}
   Wang]{BoZhang2021}
 Zhang,~B.; Jia,~L.; Tian,~M.; Ning,~N.; Zhang,~L.; Wang,~W. \emph{European
   Polymer Journal} \textbf{2021}, \emph{147}, 110352, DOI:
-  \doi{https://doi.org/10.1016/j.eurpolymj.2021.110352}\relax
+  \doi{10.1016/j.eurpolymj.2021.110352}\relax
 \mciteBstWouldAddEndPuncttrue
 \mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
 {\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
