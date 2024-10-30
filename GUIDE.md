@@ -42,7 +42,7 @@ I made use of BibTex to cite everything. This is simple to do as most accredited
 	doi = {}
 }
 
-@incollection{Citation-Label
+@incollection{Citation-Label,
 	author = {},
 	title = {},
 	booktitle = {},
@@ -53,3 +53,4 @@ I made use of BibTex to cite everything. This is simple to do as most accredited
 	address = {}
 }
 ```
+Use `\citep{Citation-Label}` to cite the references in your paper.
