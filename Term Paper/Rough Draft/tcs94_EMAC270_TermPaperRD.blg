@@ -1,0 +1,57 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: tcs94_EMAC270_TermPaperRD.aux
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+The style file: achemso.bst
+Illegal, another \bibstyle command---line 29 of file tcs94_EMAC270_TermPaperRD.aux
+ : \bibstyle
+ :          {achemso}
+I'm skipping whatever remains of this command
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: acs-tcs94_EMAC270_TermPaperRD.bib
+Database file #2: ../refs.bib
+achemso 2024-01-30 v3.13g
+You've used 9 entries,
+            2538 wiz_defined-function locations,
+            820 strings with 8679 characters,
+and the built_in function-call counts, 3407 in all, are:
+= -- 237
+> -- 234
+< -- 5
++ -- 94
+- -- 85
+* -- 406
+:= -- 460
+add.period$ -- 8
+call.type$ -- 9
+change.case$ -- 4
+chr.to.int$ -- 2
+cite$ -- 9
+duplicate$ -- 200
+empty$ -- 201
+format.name$ -- 92
+if$ -- 630
+int.to.chr$ -- 0
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 76
+num.names$ -- 24
+pop$ -- 16
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 1
+stack$ -- 0
+substring$ -- 147
+swap$ -- 228
+text.length$ -- 16
+text.prefix$ -- 0
+top$ -- 1
+type$ -- 60
+warning$ -- 0
+while$ -- 29
+width$ -- 0
+write$ -- 131
+(There was 1 error message)

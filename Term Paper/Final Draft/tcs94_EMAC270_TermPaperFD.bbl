@@ -1,0 +1,172 @@
+\providecommand{\latin}[1]{#1}
+\makeatletter
+\providecommand{\doi}
+  {\begingroup\let\do\@makeother\dospecials
+  \catcode`\{=1 \catcode`\}=2 \doi@aux}
+\providecommand{\doi@aux}[1]{\endgroup\texttt{#1}}
+\makeatother
+\providecommand*\mcitethebibliography{\thebibliography}
+\csname @ifundefined\endcsname{endmcitethebibliography}
+  {\let\endmcitethebibliography\endthebibliography}{}
+\begin{mcitethebibliography}{19}
+\providecommand*\natexlab[1]{#1}
+\providecommand*\mciteSetBstSublistMode[1]{}
+\providecommand*\mciteSetBstMaxWidthForm[2]{}
+\providecommand*\mciteBstWouldAddEndPuncttrue
+  {\def\EndOfBibitem{\unskip.}}
+\providecommand*\mciteBstWouldAddEndPunctfalse
+  {\let\EndOfBibitem\relax}
+\providecommand*\mciteSetBstMidEndSepPunct[3]{}
+\providecommand*\mciteSetBstSublistLabelBeginEnd[3]{}
+\providecommand*\EndOfBibitem{}
+\mciteSetBstSublistMode{f}
+\mciteSetBstMaxWidthForm{subitem}{(\alph{mcitesubitemcount})}
+\mciteSetBstSublistLabelBeginEnd
+  {\mcitemaxwidthsubitemform\space}
+  {\relax}
+  {\relax}
+
+\bibitem[Lau(2014)]{Lau2014}
+Lau,~K.~S. In \emph{Handbook of Thermoset Plastics (Third Edition)};
+  Dodiuk,~H., Goodman,~S.~H., Eds.; William Andrew Publishing: Boston, 2014; pp
+  297--424\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Bashandeh \latin{et~al.}(2021)Bashandeh, Tsigkis, Lan, and
+  Polycarpou]{Bashandeh2021}
+Bashandeh,~K.; Tsigkis,~V.; Lan,~P.; Polycarpou,~A.~A. \emph{Tribology
+  International} \textbf{2021}, \emph{153}, 106634, DOI:
+  \doi{10.1016/j.triboint.2020.106634}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Batra \latin{et~al.}(2020)Batra, Dai, Huan, Chen, Kim, Gutekunst,
+  Song, and Ramprasad]{Batra2020}
+Batra,~R.; Dai,~H.; Huan,~T.~D.; Chen,~L.; Kim,~C.; Gutekunst,~W.~R.; Song,~L.;
+  Ramprasad,~R. \emph{Chemistry of Materials} \textbf{2020}, \emph{32},
+  10489--10500, DOI: \doi{10.1021/acs.chemmater.0c03332}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Arnold and Van~Deusen(1969)Arnold, and Van~Deusen]{Arnold1969}
+Arnold,~F.~E.; Van~Deusen,~R.~L. \emph{Macromolecules} \textbf{1969}, \emph{2},
+  497--502, DOI: \doi{10.1021/ma60011a009}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Liu \latin{et~al.}(2019)Liu, Lyu, Fang, and Zhang]{Liu2019}
+Liu,~Z.; Lyu,~J.; Fang,~D.; Zhang,~X. \emph{ACS Nano} \textbf{2019}, \emph{13},
+  5703--5711, DOI: \doi{10.1021/acsnano.9b01094}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Cheng \latin{et~al.}(2005)Cheng, Chen, and Weerasooriya]{Cheng2005}
+Cheng,~M.; Chen,~W.; Weerasooriya,~T. \emph{Journal of Engineering Materials
+  and Technology} \textbf{2005}, \emph{127}, 197--203, DOI:
+  \doi{10.1115/1.1857937}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wang \latin{et~al.}(2020)Wang, Mao, Li, Zhang, Zhou, Ren, and
+  Li]{Wang2020}
+Wang,~B.; Mao,~Z.; Li,~D.; Zhang,~K.; Zhou,~C.; Ren,~M.; Li,~T.
+  \emph{Computational Materials Science} \textbf{2020}, \emph{185}, 109957,
+  DOI: \doi{10.1016/j.commatsci.2020.109957}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kanbargi and Lesser(2018)Kanbargi, and Lesser]{Kanbargi2017}
+Kanbargi,~N.; Lesser,~A.~J. \emph{Journal of Applied Polymer Science}
+  \textbf{2018}, \emph{135}, 45520, DOI: \doi{10.1002/app.45520}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Waite and Qin(2001)Waite, and Qin]{Waite2001}
+Waite,~J.~H.; Qin,~X. \emph{Biochemistry} \textbf{2001}, \emph{40}, 2887--2893,
+  DOI: \doi{10.1021/bi002718x}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Lee \latin{et~al.}(2007)Lee, Dellatore, Miller, and
+  Messersmith]{Lee2007}
+Lee,~H.; Dellatore,~S.~M.; Miller,~W.~M.; Messersmith,~P.~B. \emph{Science}
+  \textbf{2007}, \emph{318}, 426--430, DOI: \doi{10.1126/science.1147241}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yuan \latin{et~al.}(2017)Yuan, Zhang, Yang, Guo, Men, and
+  Liu]{Yuan2017}
+Yuan,~J.; Zhang,~Z.; Yang,~M.; Guo,~F.; Men,~X.; Liu,~W. \emph{Tribology
+  International} \textbf{2017}, \emph{107}, 10--17, DOI:
+  \doi{10.1016/j.triboint.2016.11.013}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Kong \latin{et~al.}(2019)Kong, Ding, Yu, Ding, and Qiao]{Kong2018}
+Kong,~H.; Ding,~H.; Yu,~M.; Ding,~X.; Qiao,~M. \emph{Polymer Composites}
+  \textbf{2019}, \emph{40}, E476--E483, DOI: \doi{10.1002/pc.24768}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Wang \latin{et~al.}(2017)Wang, Shi, Chen, Wang, Tian, Ning, and
+  Zhang]{LeiWang2017}
+Wang,~L.; Shi,~Y.; Chen,~S.; Wang,~W.; Tian,~M.; Ning,~N.; Zhang,~L.
+  \emph{Chemical Engineering Journal} \textbf{2017}, \emph{314}, 583--593, DOI:
+  \doi{10.1016/j.cej.2016.12.015}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhang \latin{et~al.}(2012)Zhang, Cheng, Shi, Lin, and
+  Zhang]{Zhang2012}
+Zhang,~G.; Cheng,~J.; Shi,~L.; Lin,~X.; Zhang,~J. \emph{Thermochimica Acta}
+  \textbf{2012}, \emph{538}, 36--42, DOI: \doi{10.1016/j.tca.2012.03.012}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Yang \latin{et~al.}(2019)Yang, Tu, Shen, Yin, Pan, Jiang, and
+  Hu]{Yang2019}
+Yang,~X.; Tu,~Q.; Shen,~X.; Yin,~Q.; Pan,~M.; Jiang,~C.; Hu,~C. \emph{Polymers}
+  \textbf{2019}, \emph{11}, 1231, DOI: \doi{10.3390/polym11081231}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Chen \latin{et~al.}(2014)Chen, Cao, and Feng]{ShushengChen2014}
+Chen,~S.; Cao,~Y.; Feng,~J. \emph{ACS Applied Materials \& Interfaces}
+  \textbf{2014}, \emph{6}, 349--356, DOI: \doi{10.1021/am404394g}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Li \latin{et~al.}(2022)Li, Mao, Du, and Song]{LiTong2022}
+Li,~T.; Mao,~Z.; Du,~J.; Song,~Z. \emph{Nanomaterials} \textbf{2022},
+  \emph{12}, DOI: \doi{10.3390/nano12183136}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\bibitem[Zhang \latin{et~al.}(2021)Zhang, Jia, Tian, Ning, Zhang, and
+  Wang]{BoZhang2021}
+Zhang,~B.; Jia,~L.; Tian,~M.; Ning,~N.; Zhang,~L.; Wang,~W. \emph{European
+  Polymer Journal} \textbf{2021}, \emph{147}, 110352, DOI:
+  \doi{10.1016/j.eurpolymj.2021.110352}\relax
+\mciteBstWouldAddEndPuncttrue
+\mciteSetBstMidEndSepPunct{\mcitedefaultmidpunct}
+{\mcitedefaultendpunct}{\mcitedefaultseppunct}\relax
+\EndOfBibitem
+\end{mcitethebibliography}

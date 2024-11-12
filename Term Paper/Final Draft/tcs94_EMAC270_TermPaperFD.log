@@ -1,0 +1,646 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.3) (preloaded format=pdflatex 2024.3.26)  30 OCT 2024 10:32
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./tcs94_EMAC270_TermPaperFD.tex
+(tcs94_EMAC270_TermPaperFD.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen141
+))
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen142
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count196
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count197
+\leftroot@=\count198
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count199
+\DOTSCASE@=\count266
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen143
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count267
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count268
+\dotsspace@=\muskip16
+\c@parentequation=\count269
+\dspbrk@lvl=\count270
+\tag@help=\toks18
+\row@=\count271
+\column@=\count272
+\maxfields@=\count273
+\andhelp@=\toks19
+\eqnshift@=\dimen144
+\alignsep@=\dimen145
+\tagshift@=\dimen146
+\tagwidth@=\dimen147
+\totwidth@=\dimen148
+\lineht@=\dimen149
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/derivative\derivative.
+sty (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2024-03-14 L3 programming layer (loader) 
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count274
+\l__pdf_internal_box=\box53
+))
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3
+keys2e.sty
+Package: l3keys2e 2024-03-14 LaTeX2e option processing using LaTeX3 keys
+)
+Package: derivative 2024/02/08 v1.4 Nice and easy derivatives and differentials
+ for LaTeX
+\l__deriv_gcd_counter_int=\count275
+\l__deriv_vmo_int=\count276
+\l__deriv_var_count_int=\count277
+\l__deriv_tmpa_int=\count278
+\l__deriv_tmpb_int=\count279
+\l__deriv_seq_pos_int=\count280
+\l__deriv_sort_max_int=\count281
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/gensymb\gensymb.sty
+Package: gensymb 2022/10/17 v1.0.2 (KJH)
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/wrapfig\wrapfig.sty
+\wrapoverhang=\dimen152
+\WF@size=\dimen153
+\c@WF@wrappedlines=\count282
+\WF@box=\box54
+\WF@everypar=\toks23
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf.
+sty
+Package: epstopdf 2020-01-24 v2.11 Conversion with epstopdf on the fly (HO)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.st
+y
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count283
+\float@exts=\toks24
+\float@box=\box55
+\@float@everytoks=\toks25
+\@floatcapt=\box56
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.st
+y
+Package: subfigure 2002/07/30 v2.1.4 subfigure package
+\subfigtopskip=\skip53
+\subfigcapskip=\skip54
+\subfigcaptopadj=\dimen154
+\subfigbottomskip=\skip55
+\subfigcapmargin=\dimen155
+\subfiglabelskip=\skip56
+\c@subfigure=\count284
+\c@lofdepth=\count285
+\c@subtable=\count286
+\c@lotdepth=\count287
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/subfigure\subfigure.cf
+g)
+\subfig@top=\skip57
+\subfig@bottom=\skip58
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2023/08/05 v3.6o Customizing captions (AR)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2023/07/31 v2.4d caption3 kernel (AR)
+\caption@tempdima=\dimen156
+\captionmargin=\dimen157
+\caption@leftmargin=\dimen158
+\caption@rightmargin=\dimen159
+\caption@width=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count288
+\c@continuedfloat=\count289
+Package caption Info: float package is loaded.
+Package caption Info: subfigure package is loaded.
+Package caption Info: wrapfig package is loaded.
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks26
+\inpenc@posthook=\toks27
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count290
+\Gm@cntv=\count291
+\c@Gm@tempcnt=\count292
+\Gm@bindingoffset=\dimen164
+\Gm@wd@mp=\dimen165
+\Gm@odd@mp=\dimen166
+\Gm@even@mp=\dimen167
+\Gm@layoutwidth=\dimen168
+\Gm@layoutheight=\dimen169
+\Gm@layouthoffset=\dimen170
+\Gm@layoutvoffset=\dimen171
+\Gm@dimlist=\toks28
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/achemso\achemso.sty
+Package: achemso 2024-01-30 v3.13g Support for ACS journals
+Package achemso Info: When writing a submission to an ACS journal, please
+(achemso)             use the achemso document class on input line 36.
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks29
+\XKV@tempa@toks=\toks30
+)
+\XKV@depth=\count293
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\acs@bib@file=\write3
+ (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip59
+\bibsep=\skip60
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count294
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/achemso\natmove.sty
+Package: natmove 2010/01/15 v1.1a Automatic citation moving with natbib
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/mciteplus\mciteplus.st
+y
+Package: mciteplus 2013/09/13 v1.2 enhanced mcite
+\@mcitetmptoksA=\toks31
+\@mcitetmpdima=\dimen172
+\@mcitetmpdimb=\dimen173
+\@mcitetmpcnta=\count295
+\@mcitetmpcntb=\count296
+\c@mcitebibitemcount=\count297
+\c@mcitesubitemcount=\count298
+
+** mciteplus: Detected natbib.sty. Invoking hooks.
+))
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspace.sty
+Package: setspace 2022/12/04 v6.7b set line spacing
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/tools\multicol.sty
+Package: multicol 2023/03/30 v1.9f multicolumn formatting (FMi)
+\c@tracingmulticols=\count299
+\mult@box=\box57
+\multicol@leftmargin=\dimen174
+\c@unbalance=\count300
+\c@collectmore=\count301
+\doublecol@number=\count302
+\multicoltolerance=\count303
+\multicolpretolerance=\count304
+\full@width=\dimen175
+\page@free=\dimen176
+\premulticols=\dimen177
+\postmulticols=\dimen178
+\multicolsep=\skip61
+\multicolbaselineskip=\skip62
+\partial@page=\box58
+\last@line=\box59
+\mc@boxedresult=\box60
+\maxbalancingoverflow=\dimen179
+\mult@rightbox=\box61
+\mult@grightbox=\box62
+\mult@firstbox=\box63
+\mult@gfirstbox=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\@tempa=\box97
+\@tempa=\box98
+\@tempa=\box99
+\@tempa=\box100
+\c@minrows=\count305
+\c@columnbadness=\count306
+\c@finalcolumnbadness=\count307
+\last@try=\dimen180
+\multicolovershoot=\dimen181
+\multicolundershoot=\dimen182
+\mult@nat@firstbox=\box101
+\colbreak@box=\box102
+\mc@col@check@num=\count308
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2023/10/27 v2.16 Sectioning titles
+\ttl@box=\box103
+\beforetitleunit=\skip63
+\aftertitleunit=\skip64
+\ttl@plus=\dimen183
+\ttl@minus=\dimen184
+\ttl@toksa=\toks32
+\titlewidth=\dimen185
+\titlewidthlast=\dimen186
+\titlewidthfirst=\dimen187
+) (C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.st
+y
+Package: fancyhdr 2022/11/09 v4.1 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip65
+\f@nch@O@elh=\skip66
+\f@nch@O@erh=\skip67
+\f@nch@O@olh=\skip68
+\f@nch@O@orh=\skip69
+\f@nch@O@elf=\skip70
+\f@nch@O@erf=\skip71
+\f@nch@O@olf=\skip72
+\f@nch@O@orf=\skip73
+)
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (tcs94_EMAC270_TermPaperFD.aux)
+\openout1 = `tcs94_EMAC270_TermPaperFD.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 38.
+LaTeX Font Info:    ... okay on input line 38.
+LaTeX Info: Redefining \celsius on input line 38.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 38.
+
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 38.
+Package gensymb Info: Using \Omega for \ohm on input line 38.
+
+Package gensymb Warning: Not defining \micro.
+
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count309
+\scratchdimen=\dimen188
+\scratchbox=\box104
+\nofMPsegments=\count310
+\nofMParguments=\count311
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count312
+\MPscratchDim=\dimen189
+\MPnumerator=\count313
+\makeMPintoPDFobject=\count314
+\everyMPtoPDFconversion=\toks34
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.2698pt, 469.75539pt, 72.2698pt)
+* v-part:(T,H,B)=(72.2698pt, 650.43037pt, 72.2698pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=469.75539pt
+* \textheight=650.43037pt
+* \oddsidemargin=-0.00018pt
+* \evensidemargin=-0.00018pt
+* \topmargin=-37.00018pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\openout3 = `acs-tcs94_EMAC270_TermPaperFD.bib'.
+
+\c@bibnote=\count315
+LaTeX Font Info:    Trying to load font information for U+msa on input line 40.
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 40.
+
+
+(C:\Users\Trevor\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Underfull \hbox (badness 10000) in paragraph at lines 51--56
+\OT1/cmr/m/n/12 Poly($\OML/cmm/m/it/12 ^^Z$\OT1/cmr/m/n/12 -phenylene
+ []
+
+[1
+
+{C:/Users/Trevor/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Underfull \hbox (badness 10000) in paragraph at lines 82--82
+|[]\OT1/cmr/bx/n/14.4 Thermally Sta-ble Poly-
+ []
+
+<../Resources/References/Images/Bashandeh_Results_Summary.jpg, id=12, 557.08125
+pt x 130.98938pt>
+File: ../Resources/References/Images/Bashandeh_Results_Summary.jpg Graphic file
+ (type jpg)
+<use ../Resources/References/Images/Bashandeh_Results_Summary.jpg>
+Package pdftex.def Info: ../Resources/References/Images/Bashandeh_Results_Summa
+ry.jpg  used on input line 88.
+(pdftex.def)             Requested size: 211.38849pt x 49.70451pt.
+[2 <../Resources/References/Images/Bashandeh_Results_Summary.jpg>]
+<../Resources/References/Images/Batra_Results.jpeg, id=18, 746.03719pt x 512.66
+531pt>
+File: ../Resources/References/Images/Batra_Results.jpeg Graphic file (type jpg)
+
+<use ../Resources/References/Images/Batra_Results.jpeg>
+Package pdftex.def Info: ../Resources/References/Images/Batra_Results.jpeg  use
+d on input line 101.
+(pdftex.def)             Requested size: 187.89928pt x 129.12036pt.
+ [3 <../Resources/References/Images/Batra_Results.jpeg>]
+<../Resources/References/Images/Kanbargi_pretreat_results.jpg, id=23, 452.6pt x
+ 347.48pt>
+File: ../Resources/References/Images/Kanbargi_pretreat_results.jpg Graphic file
+ (type jpg)
+<use ../Resources/References/Images/Kanbargi_pretreat_results.jpg>
+Package pdftex.def Info: ../Resources/References/Images/Kanbargi_pretreat_resul
+ts.jpg  used on input line 118.
+(pdftex.def)             Requested size: 187.89928pt x 144.25452pt.
+<../Resources/References/Images/Kong_Results.jpg, id=24, 476.69pt x 362.81pt>
+File: ../Resources/References/Images/Kong_Results.jpg Graphic file (type jpg)
+<use ../Resources/References/Images/Kong_Results.jpg>
+Package pdftex.def Info: ../Resources/References/Images/Kong_Results.jpg  used 
+on input line 129.
+(pdftex.def)             Requested size: 187.89928pt x 143.00665pt.
+ [4 <../Resources/References/Images/Kanbargi_pretreat_results.jpg>]
+<../Resources/References/Images/LeiWang_Results.jpg, id=28, 230.88026pt x 172.0
+4097pt>
+File: ../Resources/References/Images/LeiWang_Results.jpg Graphic file (type jpg
+)
+<use ../Resources/References/Images/LeiWang_Results.jpg>
+Package pdftex.def Info: ../Resources/References/Images/LeiWang_Results.jpg  us
+ed on input line 138.
+(pdftex.def)             Requested size: 187.89928pt x 140.01393pt.
+ [5 <../Resources/References/Images/Kong_Results.jpg> <../Resources/References/
+Images/LeiWang_Results.jpg>]
+<../Resources/References/Images/Yang_Results_1.png, id=32, 229.69815pt x 185.13
+165pt>
+File: ../Resources/References/Images/Yang_Results_1.png Graphic file (type png)
+
+<use ../Resources/References/Images/Yang_Results_1.png>
+Package pdftex.def Info: ../Resources/References/Images/Yang_Results_1.png  use
+d on input line 151.
+(pdftex.def)             Requested size: 187.89928pt x 151.44733pt.
+<../Resources/References/Images/Yang_Results_2.png, id=33, 2238.3625pt x 1730.4
+65pt>
+File: ../Resources/References/Images/Yang_Results_2.png Graphic file (type png)
+
+<use ../Resources/References/Images/Yang_Results_2.png>
+Package pdftex.def Info: ../Resources/References/Images/Yang_Results_2.png  use
+d on input line 160.
+(pdftex.def)             Requested size: 187.89928pt x 145.25244pt.
+ [6 <../Resources/References/Images/Yang_Results_1.png> <../Resources/Reference
+s/Images/Yang_Results_2.png (PNG copy)>] [7]
+
+Package achemso Warning: \bibliographystyle ignored on input line 179.
+
+(tcs94_EMAC270_TermPaperFD.bbl
+Underfull \hbox (badness 1824) in paragraph at lines 48--55
+[]\OT1/cmr/m/n/12 Batra, R.; Dai, H.; Huan, T. D.; Chen, L.; Kim, C.; Gutekunst
+, W. R.;
+ []
+
+
+Underfull \hbox (badness 1895) in paragraph at lines 56--62
+[]\OT1/cmr/m/n/12 Arnold, F. E.; Van Deusen, R. L. \OT1/cmr/m/it/12 Macro-molec
+ules \OT1/cmr/bx/n/12 1969\OT1/cmr/m/n/12 , \OT1/cmr/m/it/12 2\OT1/cmr/m/n/12 ,
+ 497--502, DOI:
+ []
+
+[8]) [9] (tcs94_EMAC270_TermPaperFD.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-03-14>
+ ***********
+ ) 
+Here is how much of TeX's memory you used:
+ 9613 strings out of 474424
+ 205294 string characters out of 5741267
+ 1940496 words of memory out of 5000000
+ 31828 multiletter control sequences out of 15000+600000
+ 569314 words of font info for 79 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 64i,8n,79p,1834b,752s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\Trevor\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcr
+m0800.pk><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmbx12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmmi12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fon
+ts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/Trevor/AppData/Local/Programs/M
+iKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/Trevor/AppData/Local/P
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/Trevor/AppData
+/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/Trevor
+/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Us
+ers/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.p
+fb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
+m/cmti12.pfb><C:/Users/Trevor/AppData/Local/Programs/MiKTeX/fonts/type1/public/
+amsfonts/cm/cmtt12.pfb>
+Output written on tcs94_EMAC270_TermPaperFD.pdf (9 pages, 1426006 bytes).
+PDF statistics:
+ 94 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
+
